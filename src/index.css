@@ -1,0 +1,6 @@
+.gMapPopover{
+    max-width: 100%!important;
+}
+.pac-container {
+    z-index: 1070;
+  }
